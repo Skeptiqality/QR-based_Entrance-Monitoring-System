@@ -4,7 +4,7 @@ A monstrosity of a project, created in compliance for Practical Research II.
 
 Programmers:
 - Skep
-- Yanz
+- Yani
 
 Special thanks to:
 - René Descartes
